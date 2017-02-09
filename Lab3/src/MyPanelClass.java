@@ -53,6 +53,7 @@ public class MyPanelClass extends JPanel {
             g.fillOval(160, 145, 55, 55);
             
             
+            
 	}
 
 }
